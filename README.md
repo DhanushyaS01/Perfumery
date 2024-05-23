@@ -13,7 +13,7 @@
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: 'git clone https://github.com/your-username/perfume-paradise-landing.git'
+1. Clone the repository: 'git clone https://github.com/DhanushyaS01/Perfumery.git'
 2. Open the 'index.html' file in your preferred web browser.
 
 ## Under the Hood 🛠
