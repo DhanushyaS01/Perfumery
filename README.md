@@ -9,7 +9,7 @@
 - **Dynamic Delight:** Witness the magic unfold as subtle animations breathe life into the page, adding a touch of whimsy and intrigue.
 ## Getting Started 🛠
 
-**To experience Perfume Paradise, simply [Click here](#)**
+**To experience Perfume Paradise, simply [Click here](https://technohackstask1.netlify.app/)**
 
 To run the project locally, follow these steps:
 
