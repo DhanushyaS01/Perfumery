@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 Perfume Paradise is not just a landing page; it's a sensorial escape into the world of fragrance. It's a celebration of artistry, luxury, and self-expression. Explore, indulge, and let the scents transport you to realms of beauty and sophistication.
 
-**Feel free to explore the code, tweak the design, and make it your own.** Together, let's create a paradise of perfumes that delights and inspires visitors from around the world.
+Together, let's create a paradise of perfumes that delights and inspires visitors from around the world.
 
 ## Contributing 🤝
 
@@ -38,5 +38,5 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Push to the branch: 'git push origin feature/new-feature'.
 5. Submit a pull request.
 
-Feel free to reach out if you have any questions or feedback. Happy coding and happy scenting! 🌸🎶
+Happy coding and happy scenting! 🌸🎶
 
